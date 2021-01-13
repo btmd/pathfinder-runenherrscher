@@ -34,19 +34,19 @@
 NAME | RASSE | FUNKTION | ORT (Detail) | STATUS | ANMERKUNGEN
 ---|---|---|---|---|---| 
 Malfeschnekor | ? | ? | ? |                                        ?
-Corvusus | Goblin | Goblinheld (3-Arme) | Unter Sandspitze (7-Zahn-Goblins) | TOT | .
-Grosser Guggmuth | Eber/Hobgoblin | Goblinheld | Mooswald | Am Leben | .
-Worka | Goblin | Goblinheld | Salzstengelsumpf (Kannibalen) | Am Leben | .
-Kehlreisser | Goblin | Goblinheld | Salzstengelsumpf (Uebergewicht) | Am Leben | .
-Tsuto Kaijutsu | Halbelf | ? | ? | Am Leben | .
-Bruthazmus | Grottenschrat | ? | Nesselwald (Norden) | Am Leben | .
-Quasit ... | Daemon | ? | Unter Sandspitze | TOT | .
-Alas-Nisth | ? | Herrscherin Tassilonien | ? | ? | .
+Corvusus | Goblin | Goblinheld (3-Arme) | Unter Sandspitze (7-Zahn-Goblins) | TOT | 
+Grosser Guggmuth | Eber/Hobgoblin | Goblinheld | Mooswald | Am Leben | 
+Worka | Goblin | Goblinheld | Salzstengelsumpf (Kannibalen) | Am Leben | 
+Kehlreisser | Goblin | Goblinheld | Salzstengelsumpf (Uebergewicht) | Am Leben | 
+Tsuto Kaijutsu | Halbelf | ? | ? | Am Leben | 
+Bruthazmus | Grottenschrat | ? | Nesselwald (Norden) | Am Leben | 
+Quasit ... | Daemon | ? | Unter Sandspitze | TOT | 
+Alas-Nisth | ? | Herrscherin Tassilonien | ? | ? | 
 Lamaschtu (Schakalkopf) | ? | Goettin der Monster | ? | ? | 
 Nualia Tobyn | ? | Dunkle Maechte/Feuer | ? | ? | 
 Brockenreisser | Goblin | Stammesfuerst (Distelkronen) | ? | ? | 
-... ... | Goblin | Stammesfuerst (Vogelschmatzer) | Teufelstisch (Hoehlen/westliche Gegend) | ? | 
+... ... | Goblin | Stammesfuerst (Vogelschmatzer) | Teufelstisch | ? | Hoehlen/westliche Gegend
 ... ... | Goblin | Stammesfuerst (Kroetenschlecker) | Salzstengelsumpf | ? | 
 ... ... | Goblin | Stammesfuerst (7-Zahn-Goblins) | Schnepfenwald | ? | 
 ... ... | Goblin | Stammesfuerst Mooswald | Mooswald, groesster Stamm, Buergerkrieg | ? | 
-Jervis Hackebeilmorder | Mensch | Holzschnitzer | Sandspitze | TOT | ...
+Jervis Hackebeilmorder | Mensch | Holzschnitzer | Sandspitze | TOT | 
