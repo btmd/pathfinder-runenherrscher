@@ -27,7 +27,6 @@
 | Telforth | Mensch | Wache (doof) | Sandspitze (Vogtei) | Am Leben |   |
 | Roghar | Mensch | Wache (smart) | Sandspitze (Vogtei) | Am Leben |   |
 | Lars Rovanki?? | Mensch | ? | ? | ? |   |
-| Duka Honju?? | ? | Krank... | ? | ? |   |
 | Cydrak Drokus | ? | ? | ? | ? |   |
 
 
