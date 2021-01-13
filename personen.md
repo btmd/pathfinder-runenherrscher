@@ -26,7 +26,7 @@
 | Hanna ... | ? | Hebamme Nualias | ? | ? |   |
 | Telforth | Mensch | Wache (doof) | Sandspitze (Vogtei) | Am Leben |   |
 | Roghar | Mensch | Wache (smart) | Sandspitze (Vogtei) | Am Leben |   |
-| Lars Rovanki?? | Mensch | ? | ? | ? |   |
+| Lars Rovanki | Mensch | ? | ? | ? | Das Arbeitstier |
 | Cydrak Drokus | ? | ? | ? | ? |   |
 
 
