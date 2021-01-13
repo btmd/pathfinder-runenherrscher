@@ -3,11 +3,11 @@
 |---|---|---|---|---|---|
 | Belor Schierling | Mensch | Vogt/Sherrif | Sandspitze (Vogtei) | Am Leben  |   |
 | Pater Zanthus | Mensch | Religionspberhaupt | Sandspitze (Tempel) | Am Leben  |   |
-| ~~Pater Tobyn | Mensch | Religionsoberhaupt | Sandspitze | TOT | Starb bei Tempelbrand, Ziehvater von Nualia~~ |
+| ~~Pater Tobyn~~ | Mensch | Religionsoberhaupt | Sandspitze | TOT | Starb bei Tempelbrand, Ziehvater von Nualia |
 | Shalelu | Mensch | Waldlaeuferin | Sandspitze (Natur) | Am Leben |   |
 | Aldern Fingerhut | Mensch | Reicher Kaufmann | Sandspitze (Rostiger Drache) | Am Leben | Mag Abenteuer und Wildschweinjagd |
 | Ameiko Kaijitsu | Mensch | Pensionsbesitzerin | Sandspitze (Rostiger Drache) | Am Leben |   |
-| ~~Lonjiku Kaijitsu | Mensch | Clanoberhaupt (Glas) | Sandspitze (Glashuette) | TOT |~~|
+| ~~Lonjiku Kaijitsu~~ | Mensch | Clanoberhaupt (Glas) | Sandspitze (Glashuette) | TOT |  |
 | Tsuto Kaijitsu | Halbelf| Bruder von Ameiko | Sandspitze (unbekannt) | Am Leben |   |
 | ... Waldemar | ? | Gruenderclan | Sandspitze | ? |   |
 | ... Scanetti | ? | Gruenderclan | Sandspitze | ? |   |
@@ -33,14 +33,14 @@
 # Boeslinge
 NAME | RASSE | FUNKTION | ORT (Detail) | STATUS | ANMERKUNGEN
 ---|---|---|---|---|---| 
-Malfeschnekor | ? | ? | ? |                                        ?
-~~Corvusus | Goblin | Goblinheld (3-Arme) | Unter Sandspitze (7-Zahn-Goblins) | TOT~~ | 
+Malfeschnekor | ? | ? | ? | ?
+~~Corvusus~~ | Goblin | Goblinheld (3-Arme) | Unter Sandspitze (7-Zahn-Goblins) | TOT | 
 Grosser Guggmuth | Eber/Hobgoblin | Goblinheld | Mooswald | Am Leben | 
 Worka | Goblin | Goblinheld | Salzstengelsumpf (Kannibalen) | Am Leben | 
 Kehlreisser | Goblin | Goblinheld | Salzstengelsumpf (Uebergewicht) | Am Leben | 
 Tsuto Kaijutsu | Halbelf | ? | ? | Am Leben | 
 Bruthazmus | Grottenschrat | ? | Nesselwald (Norden) | Am Leben | 
-~~Quasit ... | Daemon | ? | Unter Sandspitze | TOT~~ | 
+~~Quasit~~ | Daemon | ? | Unter Sandspitze | TOT | 
 Alas-Nisth | ? | Herrscherin Tassilonien | ? | ? | 
 Lamaschtu (Schakalkopf) | ? | Goettin der Monster | ? | ? | 
 Pasusu | Daemon | daemonischer Herrscher aller fliegender Kreaturen | Statue auf Hackebeilinsel | ? | leuchtende Augen aus ?, Koenig der Winddaemonen, attraktiv fuer Antipaladine
@@ -50,4 +50,4 @@ Brockenreisser | Goblin | Stammesfuerst (Distelkronen) | ? | ? |
 ... ... | Goblin | Stammesfuerst (Kroetenschlecker) | Salzstengelsumpf | ? | 
 ... ... | Goblin | Stammesfuerst (7-Zahn-Goblins) | Schnepfenwald | ? | 
 ... ... | Goblin | Stammesfuerst Mooswald | Mooswald, groesster Stamm, Buergerkrieg | ? | 
-~~Jervis Hackebeilmorder | Mensch | Holzschnitzer | Sandspitze | TOT~~ | Anhaenger von Pasusu?
+~~Jervis Hackebeilmorder~~ | Mensch | Holzschnitzer | Sandspitze | TOT | Anhaenger von Pasusu?
