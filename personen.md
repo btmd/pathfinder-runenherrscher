@@ -29,7 +29,7 @@
 | Lars Rovanki | Mensch | ? | ? | ? | Das Arbeitstier |
 | Cydrak Drokus | ? | ? | ? | ? |   |
 
-
+# Boeslinge
 NAME | RASSE | FUNKTION | ORT (Detail) | STATUS | ANMERKUNGEN
 ---|---|---|---|---|---| 
 Malfeschnekor | ? | ? | ? |                                        ?
