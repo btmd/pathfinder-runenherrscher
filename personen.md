@@ -43,6 +43,7 @@ Bruthazmus | Grottenschrat | ? | Nesselwald (Norden) | Am Leben |
 Quasit ... | Daemon | ? | Unter Sandspitze | TOT | 
 Alas-Nisth | ? | Herrscherin Tassilonien | ? | ? | 
 Lamaschtu (Schakalkopf) | ? | Goettin der Monster | ? | ? | 
+Pasusu | Daemon | daemonischer Herrscher aller fliegender Kreaturen | Statue auf Hackebeilinsel | ? | leuchtende Augen aus ?, Koenig der Winddaemonen, Antipaladin
 Nualia Tobyn | ? | Dunkle Maechte/Feuer | ? | ? | 
 Brockenreisser | Goblin | Stammesfuerst (Distelkronen) | ? | ? | 
 ... ... | Goblin | Stammesfuerst (Vogelschmatzer) | Teufelstisch | ? | Hoehlen/westliche Gegend
