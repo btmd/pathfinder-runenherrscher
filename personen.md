@@ -8,9 +8,9 @@
 | Ameiko Kaijitsu | Mensch | Pensionsbesitzerin | Sandspitze (Rostiger Drache) | Am Leben |   |
 | Lonjiku Kaijitsu | Mensch | Clanoberhaupt (Glas) | Sandspitze (Glashuette) | TOT |   |
 | Tsuto Kaijitsu | Halbelf| Bruder von Ameiko | Sandspitze (unbekannt) | Am Leben |   |
-| ... Waldemar | ?      | Gruenderclan | Sandspitze | ? |   |
-| ... Scanetti | ?      | Gruenderclan | Sandspitze | ? |   |
-| ... Deverin | ?  | Gruenderclan | Sandspitze | ? |   |
+| ... Waldemar | ? | Gruenderclan | Sandspitze | ? |   |
+| ... Scanetti | ? | Gruenderclan | Sandspitze | ? |   |
+| ... Deverin | ? | Gruenderclan | Sandspitze | ? |   |
 | Kendra Deverin | Mensch | Buergermeisterin | Sandspitze (Rathaus) | Am Leben |   |
 | Bethana Corvin | Halbli | Haushaltsangestellte | Sandspitze (Rostiger Drache) | Am Leben |   |
 | Ilsoari Gandettus | Mensch | Lehrer/Gelehrter | Sandspitze (Waisenhaus/Akademie) | Am Leben |   |
