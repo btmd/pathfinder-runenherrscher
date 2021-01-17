@@ -5,7 +5,7 @@
 | ~~Kasp Hervatin~~ | Mensch | Vogt/Sherrif | Sandspitze (Vogtei) | TOT  | Ermordet durch den Hackebeilmörder  |
 | Pater Zanthus | Mensch | Religionspberhaupt | Sandspitze (Tempel) | Am Leben  |   |
 | ~~Pater Tobyn~~ | Mensch | Religionsoberhaupt | Sandspitze | TOT | Starb bei Tempelbrand, Ziehvater von Nualia |
-| Shalelu | Mensch | Waldlaeuferin | Sandspitze (Natur) | Am Leben |   |
+| Shalelu | Mensch | Waldläuferin | Sandspitze (Natur) | Am Leben |   |
 | Aldern Fingerhut | Mensch | Reicher Kaufmann | Sandspitze (Rostiger Drache) | Am Leben | Mag Abenteuer und Wildschweinjagd |
 | Ameiko Kaijitsu | Mensch | Pensionsbesitzerin | Sandspitze (Rostiger Drache) | Am Leben |   |
 | ~~Lonjiku Kaijitsu~~ | Mensch | Clanoberhaupt (Glas) | Sandspitze (Glashuette) | TOT |  |
@@ -47,7 +47,7 @@ Kehlreisser | Goblin | Goblinheld | Salzstengelsumpf (Uebergewicht) | Am Leben |
 Tsuto Kaijutsu | Halbelf | ? | ? | Am Leben | 
 Bruthazmus | Grottenschrat | ? | Nesselwald (Norden) | Am Leben | 
 ~~Quasit~~ | Daemon | ? | Unter Sandspitze | TOT | 
-Alas-Nisth | ? | Herrscherin Tassilonien | ? | ? | Steht für Zorn/Wut
+Alas-Nisth | ? | Herrscherin Tassilonien | ? | ? | Steht für Zorn/Wut oder Güte
 Lamaschtu (Schakalkopf) | ? | Goettin der Monster | ? | ? | 
 | **NAME** | **RASSE** | **FUNKTION** | **ORT (Detail)** | **STATUS** | **ANMERKUNGEN** |
 Pazuzu | Daemon | daemonischer Herrscher aller fliegender Kreaturen (keiner der 7 Tassilonischen Herrscher) | Statue auf Hackebeilinsel | ? | leuchtende Augen aus ?, König der Winddaemonen, attraktiv für Antipaladine
