@@ -32,7 +32,7 @@
 | Turtsch | ? | Fischer | Sandspitze (Hafen) | Am Leben |   |
 
 
-# Boeslinge
+# Böslinge
 NAME | RASSE | FUNKTION | ORT (Detail) | STATUS | ANMERKUNGEN
 ---|---|---|---|---|---| 
 Malfeschnekor | ? | ? | ? | ?
