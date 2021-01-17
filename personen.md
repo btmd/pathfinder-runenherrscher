@@ -14,7 +14,7 @@
 | ... Scanetti | ? | Gruenderclan | Sandspitze | ? |   |
 | ... Deverin | ? | Gruenderclan | Sandspitze | ? |   |
 | Kendra Deverin | Mensch | Buergermeisterin | Sandspitze (Rathaus) | Am Leben |   |
-| Bethana Corvin | Halbli | Haushaltsangestellte | Sandspitze (Rostiger Drache) | Am Leben |   |
+| Bethana Corvin | Halbling | Haushaltsangestellte | Sandspitze (Rostiger Drache) | Am Leben |   |
 | Ilsoari Gandettus | Mensch | Lehrer/Gelehrter | Sandspitze (Waisenhaus/Akademie) | Am Leben |   |
 | Chask Halladan | Mensch | Bibliothekar | Sandspitze (Zum Neugierigen Goblin)| Am Leben |   |
 | Brodert Quink | Mensch | Weiser |   Sandspitze (Huette vor Leuchtturm) | Am Leben |   |
