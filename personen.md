@@ -50,7 +50,7 @@ Bruthazmus | Grottenschrat | ? | Nesselwald (Norden) | Am Leben |
 Alas-Nisth | ? | Herrscherin Tassilonien | ? | ? | 
 Lamaschtu (Schakalkopf) | ? | Goettin der Monster | ? | ? | 
 | **NAME** | **RASSE** | **FUNKTION** | **ORT (Detail)** | **STATUS** | **ANMERKUNGEN** |
-Pazuzu | Daemon | daemonischer Herrscher aller fliegender Kreaturen | Statue auf Hackebeilinsel | ? | leuchtende Augen aus ?, König der Winddaemonen, attraktiv für Antipaladine
+Pazuzu | Daemon | daemonischer Herrscher aller fliegender Kreaturen (keiner der 7 Tassilonischen Herrscher) | Statue auf Hackebeilinsel | ? | leuchtende Augen aus ?, König der Winddaemonen, attraktiv für Antipaladine
 Nualia Tobyn | ? | Dunkle Maechte/Feuer | ? | ? | 
 Brockenreisser | Goblin | Stammesfuerst (Distelkronen) | ? | ? | 
 ... ... | Goblin | Stammesfuerst (Vogelschmatzer) | Teufelstisch | ? | Hoehlen/westliche Gegend
