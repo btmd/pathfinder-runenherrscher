@@ -47,7 +47,7 @@ Kehlreisser | Goblin | Goblinheld | Salzstengelsumpf (Uebergewicht) | Am Leben |
 Tsuto Kaijutsu | Halbelf | ? | ? | Am Leben | 
 Bruthazmus | Grottenschrat | ? | Nesselwald (Norden) | Am Leben | 
 ~~Quasit~~ | Daemon | ? | Unter Sandspitze | TOT | 
-Alas-Nisth | ? | Herrscherin Tassilonien | ? | ? | 
+Alas-Nisth | ? | Herrscherin Tassilonien | ? | ? | Steht für Zorn
 Lamaschtu (Schakalkopf) | ? | Goettin der Monster | ? | ? | 
 | **NAME** | **RASSE** | **FUNKTION** | **ORT (Detail)** | **STATUS** | **ANMERKUNGEN** |
 Pazuzu | Daemon | daemonischer Herrscher aller fliegender Kreaturen (keiner der 7 Tassilonischen Herrscher) | Statue auf Hackebeilinsel | ? | leuchtende Augen aus ?, König der Winddaemonen, attraktiv für Antipaladine
