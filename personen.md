@@ -2,6 +2,7 @@
 | NAME | RASSE | FUNKTION | ORT (Detail) | STATUS | ANMERKUNGEN |
 |---|---|---|---|---|---|
 | Belor Schierling | Mensch | Vogt/Sherrif | Sandspitze (Vogtei) | Am Leben  |   |
+| Kasp Hervatin | Mensch | Vogt/Sherrif | Sandspitze (Vogtei) | TOT  | Ermordet durch den Hackebeilmörder  |
 | Pater Zanthus | Mensch | Religionspberhaupt | Sandspitze (Tempel) | Am Leben  |   |
 | ~~Pater Tobyn~~ | Mensch | Religionsoberhaupt | Sandspitze | TOT | Starb bei Tempelbrand, Ziehvater von Nualia |
 | Shalelu | Mensch | Waldlaeuferin | Sandspitze (Natur) | Am Leben |   |
