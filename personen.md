@@ -9,6 +9,7 @@
 | Ameiko Kaijitsu | Mensch | Pensionsbesitzerin | Sandspitze (Rostiger Drache) | Am Leben |   |
 | ~~Lonjiku Kaijitsu~~ | Mensch | Clanoberhaupt (Glas) | Sandspitze (Glashuette) | TOT |  |
 | Tsuto Kaijitsu | Halbelf| Bruder von Ameiko | Sandspitze (unbekannt) | Am Leben |   |
+| **NAME** | **RASSE** | **FUNKTION** | **ORT (Detail)** | **STATUS** | **ANMERKUNGEN** |
 | ... Waldemar | ? | Gruenderclan | Sandspitze | ? |   |
 | ... Scanetti | ? | Gruenderclan | Sandspitze | ? |   |
 | ... Deverin | ? | Gruenderclan | Sandspitze | ? |   |
@@ -19,6 +20,7 @@
 | Brodert Quink | Mensch | Weiser |   Sandspitze (Huette vor Leuchtturm) | Am Leben |   |
 | ... ... | Mensch | Schmied | Sandspitze (Schmiede) | Am Leben |   |
 | ... ... | Halbork | Muellsammler | Sandspitze | Am Leben  |   |
+| **NAME** | **RASSE** | **FUNKTION** | **ORT (Detail)** | **STATUS** | **ANMERKUNGEN** |
 | ... Winder | Mensch | Kraemer/Haendler | Sandspitze (Gemischtwarenladen) | Am Leben | Beschuetzt seine Toechter |                                   
 | Shayliss Winder | Mensch | Tochter vom Kraemer | Sandspitze (Gemischtwarenladen) | Am Leben  |   |
 | Katrin Winder | Mensch | Tochter vom Kraemer | Sandspitze (Gemischtwarenladen) | Am Leben  | Wilde Ehe mit jemandem aus der Muehle |
@@ -29,6 +31,7 @@
 | Roghar | Mensch | Wache (smart) | Sandspitze (Vogtei) | Am Leben |   |
 | Lars Rovanki | Mensch | ? | ? | ? | Das Arbeitstier |
 | Cydrak Drokus | ? | ? | ? | ? |   |
+| **NAME** | **RASSE** | **FUNKTION** | **ORT (Detail)** | **STATUS** | **ANMERKUNGEN** |
 | Turtsch | ? | Fischer | Sandspitze (Hafen) | Am Leben |   |
 
 
@@ -45,6 +48,7 @@ Bruthazmus | Grottenschrat | ? | Nesselwald (Norden) | Am Leben |
 ~~Quasit~~ | Daemon | ? | Unter Sandspitze | TOT | 
 Alas-Nisth | ? | Herrscherin Tassilonien | ? | ? | 
 Lamaschtu (Schakalkopf) | ? | Goettin der Monster | ? | ? | 
+| **NAME** | **RASSE** | **FUNKTION** | **ORT (Detail)** | **STATUS** | **ANMERKUNGEN** |
 Pazuzu | Daemon | daemonischer Herrscher aller fliegender Kreaturen | Statue auf Hackebeilinsel | ? | leuchtende Augen aus ?, König der Winddaemonen, attraktiv für Antipaladine
 Nualia Tobyn | ? | Dunkle Maechte/Feuer | ? | ? | 
 Brockenreisser | Goblin | Stammesfuerst (Distelkronen) | ? | ? | 
@@ -53,3 +57,4 @@ Brockenreisser | Goblin | Stammesfuerst (Distelkronen) | ? | ? |
 ... ... | Goblin | Stammesfuerst (7-Zahn-Goblins) | Schnepfenwald | ? | 
 ... ... | Goblin | Stammesfuerst Mooswald | Mooswald, groesster Stamm, Buergerkrieg | ? | 
 ~~Jervis Stuht~~ | Mensch | Holzschnitzer | Sandspitze | TOT | Anhaenger von Pazuzu?
+| **NAME** | **RASSE** | **FUNKTION** | **ORT (Detail)** | **STATUS** | **ANMERKUNGEN** |
