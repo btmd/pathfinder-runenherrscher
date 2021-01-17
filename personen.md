@@ -29,6 +29,8 @@
 | Roghar | Mensch | Wache (smart) | Sandspitze (Vogtei) | Am Leben |   |
 | Lars Rovanki | Mensch | ? | ? | ? | Das Arbeitstier |
 | Cydrak Drokus | ? | ? | ? | ? |   |
+| Turtsch | ? | Fischer | Sandspitze (Hafen) | Am Leben |   |
+
 
 # Boeslinge
 NAME | RASSE | FUNKTION | ORT (Detail) | STATUS | ANMERKUNGEN
