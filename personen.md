@@ -1,5 +1,5 @@
 # Gutlinge
-| *NAME* | *RASSE* | *FUNKTION* | *ORT (Detail)* | *STATUS* | *ANMERKUNGEN* |
+| NAME | RASSE | FUNKTION | ORT (Detail) | STATUS | ANMERKUNGEN |
 |---|---|---|---|---|---|
 | Belor Schierling | Mensch | Vogt/Sherrif | Sandspitze (Vogtei) | Am Leben  |   |
 | Pater Zanthus | Mensch | Religionspberhaupt | Sandspitze (Tempel) | Am Leben  |   |
