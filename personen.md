@@ -52,4 +52,4 @@ Brockenreisser | Goblin | Stammesfuerst (Distelkronen) | ? | ? |
 ... ... | Goblin | Stammesfuerst (Kroetenschlecker) | Salzstengelsumpf | ? | 
 ... ... | Goblin | Stammesfuerst (7-Zahn-Goblins) | Schnepfenwald | ? | 
 ... ... | Goblin | Stammesfuerst Mooswald | Mooswald, groesster Stamm, Buergerkrieg | ? | 
-~~Jervis Hackebeilmorder~~ | Mensch | Holzschnitzer | Sandspitze | TOT | Anhaenger von Pazuzu?
+~~Jervis Stuht~~ | Mensch | Holzschnitzer | Sandspitze | TOT | Anhaenger von Pazuzu?
