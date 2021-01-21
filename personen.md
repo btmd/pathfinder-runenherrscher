@@ -19,7 +19,7 @@
 | Ilsoari Gandettus | Mensch | Lehrer/Gelehrter | Sandspitze (Waisenhaus/Akademie) | Am Leben |   |
 | Chask Halladan | Mensch | Bibliothekar | Sandspitze (Zum Neugierigen Goblin)| Am Leben |   |
 | Brodert Quink | Mensch | Weiser |   Sandspitze (Hütte vor Leuchtturm) | Am Leben |   |
-| ... ... | Mensch | Schmied | Sandspitze (Schmiede) | Am Leben |   |
+| Daas | Mensch | Schmied | Sandspitze (Schmiede) | Am Leben |   |
 | ... ... | Halbork | Müllsammler | Sandspitze | Am Leben  |   |
 | **NAME** | **RASSE** | **FUNKTION** | **ORT (Detail)** | **STATUS** | **ANMERKUNGEN** |
 | ... Winder | Mensch | Krämer/Händler | Sandspitze (Gemischtwarenladen) | Am Leben | Beschützt seine Töchter |                                   
