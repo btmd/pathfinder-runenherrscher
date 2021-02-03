@@ -12,8 +12,8 @@
 | Tsuto Kaijitsu | Halbelf| Bruder von Ameiko | Sandspitze (unbekannt) | Am Leben |   |
 | **NAME** | **RASSE** | **FUNKTION** | **ORT (Detail)** | **STATUS** | **ANMERKUNGEN** |
 | ... Waldemar | ? | Gründerclan | Sandspitze | ? |   |
-| ... Scanetti | ? | Gründerclan | Sandspitze | ? |   |
-| Ezanna Scanetti | ? | Gründerclan | Sandspitze | ? | Nachricht von ihr, Entschuldigung, Übertragung der Mühle der Scanettis |
+| ... Scarnetti | ? | Gründerclan | Sandspitze | ? |   |
+| Ezanna Scarnetti | ? | Gründerclan | Sandspitze | ? | Nachricht von ihr, Entschuldigung, Übertragung der Mühle der Scanettis |
 | ... Deverin | ? | Gründerclan | Sandspitze | ? |   |
 | Kendra Deverin | Mensch | Bürgermeisterin | Sandspitze (Rathaus) | Am Leben |   |
 | Bethana Corvin | Halbling | Haushaltsangestellte | Sandspitze (Rostiger Drache) | Am Leben |   |
