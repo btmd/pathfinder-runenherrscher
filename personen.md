@@ -25,7 +25,6 @@
 | **NAME** | **RASSE** | **FUNKTION** | **ORT (Detail)** | **STATUS** | **ANMERKUNGEN** |
 | ... Winder | Mensch | Krämer/Händler | Sandspitze (Gemischtwarenladen) | Am Leben | Beschützt seine Töchter |                                   
 | Shayliss Winder | Mensch | Tochter vom Krämer | Sandspitze (Gemischtwarenladen) | Am Leben  |   |
-| Katrin Winder | Mensch | Tochter vom Krämer | Sandspitze (Gemischtwarenladen) | Am Leben  | Wilde Ehe mit jemandem aus der Mühle |
 | Fischer Jonas | Mensch | Fischer | Sandspitze (Hafen?) | Am Leben |   |
 | Savah ... | ... | Waffenhändlerin | Sandspitze (Waffenladen) | Am Leben |   |
 | Hanna ... | ? | Hebamme Nualias | ? | ? |   |
