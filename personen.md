@@ -53,7 +53,7 @@ Lamaschtu (Schakalkopf) | ? | Göttin der Monster | ? | ? |
 | **NAME** | **RASSE** | **FUNKTION** | **ORT (Detail)** | **STATUS** | **ANMERKUNGEN** |
 Pazuzu | Dämon | dämonischer Herrscher aller fliegender Kreaturen (keiner der 7 Tassilonischen Herrscher) | Statue auf Hackebeilinsel | ? | leuchtende Augen aus ?, König der Winddämonen, attraktiv für Antipaladine
 Nualia Tobyn | ? | Dunkle Mächte/Feuer | ? | ? | 
-Brockenreisser | Goblin | Stammesfürst (Distelkronen) | Nesselwald | ? | 
+Brockenreisser | Goblin | Stammesfürst (Distelkronen) | Nesselwald | TOT | 
 ... ... | Goblin | Stammesfürst (Vogelschmatzer) | Teufelstisch | ? | Höhlen/westliche Gegend
 ... ... | Goblin | Stammesfürst (Krötenschlecker) | Salzstengelsumpf | ? | 
 ... ... | Goblin | Stammesfürst (7-Zahn-Goblins) | Schnepfenwald | ? | 
