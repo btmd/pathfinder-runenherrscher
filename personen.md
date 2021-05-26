@@ -39,13 +39,14 @@
 # Böslinge
 NAME | RASSE | FUNKTION | ORT (Detail) | STATUS | ANMERKUNGEN
 ---|---|---|---|---|---| 
+Orik | Mensch| Soeldner fuer Nualia | Keller der Distelkrone | Am Leben | wird verhoert von uns
 Malfeschnekor | ? | ? | ? | ?
 ~~Corvusus~~ | Goblin | Goblinheld (3-Arme) | Unter Sandspitze (7-Zahn-Goblins) | TOT | 
 Grosser Guggmuth | Eber/Hobgoblin | Goblinheld | Mooswald | Am Leben | 
 Worka | Goblin | Goblinheld | Salzstengelsumpf (Kannibalen) | Am Leben | 
 Kehlreisser | Goblin | Goblinheld | Salzstengelsumpf (Übergewicht) | Am Leben | 
 Tsuto Kaijutsu | Halbelf | ? | ? | Am Leben | 
-Bruthazmus | Grottenschrat | ? | Nesselwald (Norden) | Am Leben | 
+Bruthazmus | Grottenschrat | ? | Keller der Distelkrone | TOT | 
 ~~Quasit~~ | Dämon | ? | Unter Sandspitze | TOT | 
 Alas-Nisth | ? | Herrscherin Tassilonien | ? | ? | Steht für Zorn/Wut oder Güte
 Lamaschtu (Schakalkopf) | ? | Göttin der Monster | ? | ? | 
