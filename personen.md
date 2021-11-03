@@ -35,6 +35,7 @@
 | Cydrak Drokus | ? | ? | ? | ? |   |
 | **NAME** | **RASSE** | **FUNKTION** | **ORT (Detail)** | **STATUS** | **ANMERKUNGEN** |
 | Turtsch | ? | Fischer | Sandspitze (Hafen) | Am Leben |   |
+| Vinn | Mensch | Wagenmacher |   Sandspitze (bei den Staellen) | Am Leben |   |
 
 
 # Böslinge
